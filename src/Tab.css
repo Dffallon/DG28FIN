@@ -1,0 +1,17 @@
+/* Tab.css */
+
+/* Style for each tab */
+.tab {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-right: 10px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Style for active tab */
+.tab.active {
+  background-color: #007bff; /* Background color for active tab */
+  color: #fff; /* Text color for active tab */
+}
