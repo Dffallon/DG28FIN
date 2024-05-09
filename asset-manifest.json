@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DG28FIN/static/css/main.8df74c9c.css",
+    "main.js": "/DG28FIN/static/js/main.9f89cc66.js",
+    "static/js/453.436623b6.chunk.js": "/DG28FIN/static/js/453.436623b6.chunk.js",
+    "static/media/Sleeve.jpg": "/DG28FIN/static/media/Sleeve.c52a3f38e4c924290579.jpg",
+    "index.html": "/DG28FIN/index.html",
+    "main.8df74c9c.css.map": "/DG28FIN/static/css/main.8df74c9c.css.map",
+    "main.9f89cc66.js.map": "/DG28FIN/static/js/main.9f89cc66.js.map",
+    "453.436623b6.chunk.js.map": "/DG28FIN/static/js/453.436623b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8df74c9c.css",
+    "static/js/main.9f89cc66.js"
+  ]
+}
